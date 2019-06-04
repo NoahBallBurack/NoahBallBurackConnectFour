@@ -1,0 +1,45 @@
+span{
+    margin-right:4%;
+    font-size: 60px;
+}
+
+.slot, #instructions{
+    color: #eedf00;
+}
+
+#turn{
+    color: red;
+}
+
+.odd{
+    color: red;
+}
+
+.even{
+    color: blue;
+}
+
+body{
+    color: white;
+    background: black;
+    font-family: "Times New Roman";
+    line-height: 1.25;
+    font-size: 19px;
+}
+
+.title{
+    margin-right: 2%;
+}
+
+#gameOver{
+    font-size: 30px;
+    margin-left: 1%;
+}
+
+#playAgain{
+    margin-left: 2%;
+}
+
+#instructions, #turn{
+    margin-left: .4%;
+}
